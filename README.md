@@ -6,7 +6,7 @@ A collection of Lance Cain's (aka. Robot Operator) software development and Comp
 
 ## My Work in Computer Science at SNHU
 
-This portfolio contains projects that I developed and enhanced during my academic journey at Southern New Hampshire University (SNHU). As the final part of my learning program I chose to enahnce the below included projects as a demonstration of my ability to:
+This portfolio contains projects that I developed and enhanced during my academic journey at Southern New Hampshire University (SNHU). As the final part of my learning program I chose to enhance the below included projects as a demonstration of my ability to:
 
   1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
   2. Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts 
