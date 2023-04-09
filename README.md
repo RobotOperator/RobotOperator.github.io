@@ -1,5 +1,8 @@
-# Welcome to Robot Operator's Github Repository!
-A collection of Robot Operator's software development and Computer Science work hosted by Github Pages.
+# Welcome to Robot Operator's Github Portfolio!
+A collection of Lance Cain's (aka. Robot Operator) software development and Computer Science work hosted by Github Pages.
+
+* TOC
+{:toc}
 
 ## My Work in Computer Science at SNHU
 
