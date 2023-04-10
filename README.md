@@ -53,5 +53,5 @@ When choosing to include a database in the Contact Service application I began b
 
 ## 6. Other Academic Work
 [CS 405](https://github.com/RobotOperator/CS405) - Secure Coding C++ work
-[CS 330](https://github.com/RobotOperator/CS330) - OpenGL 3D Design 
-[CS 250](https://github.com/RobotOperator/CS250) - Agile Team Development Restrospective
+<br>[CS 330](https://github.com/RobotOperator/CS330) - OpenGL 3D Design 
+<br>[CS 250](https://github.com/RobotOperator/CS250) - Agile Team Development Restrospective
