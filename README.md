@@ -24,7 +24,7 @@ The enhancements I performed as part of my final project in CS499 started with a
 The code review serves as a demonstration of my capabilities to create a presentation combining oral and visual media delivering accurate technical concpets in a coherent, easy to understand manner, that is tailored to my audience. The review is presented in an informal manner that covers the previous state of each of the artifact submissions I have included below.
 
 The original video can be viewed [here](https://youtu.be/0v01YbG2tHA).
-<iframe src="https://youtube.com/embed/0v01YbG2tHA" allowfullscreen="true" width="50%" height="50%"></iframe>
+<iframe src="https://youtube.com/embed/0v01YbG2tHA" allowfullscreen="true" width="50%" height="50%" style="text-align: center;"></iframe>
 
 ## 3. [Grazioso Dashboard](https://github.com/RobotOperator/GraziosoDashboardEnhanced) - Software Design and Engineering
 <img src="/images/GraziosDboard.png" width=65% height=65%>
