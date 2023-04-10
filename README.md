@@ -38,8 +38,8 @@ One of the motivations for my multiple improvements to this project was a desire
 Some of the greatest challenges I overcame when working on these enhancements was working in depth with dynamic client-side rendered web content. I understand now why my college had us create the original project with Python flask and dash since those modules handled many complex aspects of the dashboard like creating the graph and map widgets with little required configuraiton. I was able to replicate all of the previous functionality in PHP with rendered HTML content using some supporting javascript and a fair amount of research.
 
 ## 4. [Contact Service](https://github.com/RobotOperator/ContactService) - Data Structure and Algorithms
-| ![Contact Service Console](/docs/assets/images/CServiceSQL.PNG) |
-| - |
+![Contact Service Console](/docs/assets/images/CServiceSQL.PNG)
+
 
 The second project I chose to improve as part of my final project in CS499 is a Contact Service application I developed using Java for my CS320 Testing, Automation, and Quality Assurance course at SNHU, original project available [here](https://github.com/RobotOperator/CS320-ContactService). The ContactService and Contact java classes were developed according to a client’s need to be drop in objects for larger programs to store user contact information. I developed two Junit5 classes, ContactServiceTest and ContactTest, to serve as unit tests for these classes that used both positive testing and negative testing to validate the classes would only accept data that met the customer’s specifications for length and type. This artifact was my first exposure to unit testing and helped me gain an understanding of how beneficial proper testing could be when determining not only expected logic execution flows but also error handling for deviations from the expected flow. 
 
@@ -50,8 +50,7 @@ Enhancing this project to be a stand-alone Java application using a command-line
 One of the biggest challenges I encountered during this enhancement was properly delimiting and interpreting user supplied input to be validated against the underlying classes from standard input. After some time of checking for and working with user supplied input that contained whitespace in supplied strings I ended up creating checks for whole line inputs on Windows using the standard '\r\n' carriage return input at certain decision points in the new Driver class which addressed the problems I was encountering. The user input interface has now been refined with some minor additions to handle any supplied input to include malformed datasets and safely handle those cases. I also found myself continuously working to keep the existing unit tests I had previously developed updated as I continued to improve upon and expand the existing classes to fulfill new functionality in the application. I ensured that any new additions I created to the code was both fully tested and did not break any prior existing functionality by testing frequently locally.
 
 ## 5. [Contact Service](https://github.com/RobotOperator/ContactService) - Database Proficiency
-| ![Contact Service Encrypted Database](/docs/assets/images/EncryptedDB.png) |
-| - |
+![Contact Service Encrypted Database](/docs/assets/images/EncryptedDB.png)
 
 The Contact Service application also serves as a demonstration of my proficiency in designing and integrating databases in software development. When I created the two classes for this project with the associated unit tests they were designed to run solely in memory using Java ArrayLists. I improved upon this by integrating a local SQLite database for the application to serve as a persistent storage ensuring that data would not be lost whenever the service was interrupted or required shutdown. My thoughts behind this enhancement was that it would make the Java application more flexible to be used by many different individuals across different platforms rather than requiring 100% consistent uptime while the service was running making the code adaptable to a more diverse group of individuals that are working and making decisions in the field of Computer Science.   
 
