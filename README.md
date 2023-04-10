@@ -24,7 +24,7 @@ The enhancements I performed as part of my final project in CS499 started with a
 The code review serves as a demonstration of my capabilities to create a presentation combining oral and visual media delivering accurate technical concpets in a coherent, easy to understand manner, that is tailored to my audience. The review is presented in an informal manner that covers the previous state of each of the projects I have chosen to include in my capstone project for CS499.
 
 The original full-scale video hosted on YouTube can be viewed [here](https://youtu.be/0v01YbG2tHA).
-<iframe src="https://youtu.be/embded/0v01YbG2tHA" width="420" height="315"></iframe>
+<iframe src="https://youtu.be/embed/0v01YbG2tHA" width="420" height="315"></iframe>
 
 ## 3. [Grazioso Dashboard](https://github.com/RobotOperator/GraziosoDashboardEnhanced) - Software Design and Engineering
 I have chosen to improve the Grazioso Dashboard that I created in CS340 Client Server Development at SNHU. This dashboard was developed as a full stack project with a MongoDB backend, Python middleware module that performed CRUD actions with database, and a Jupyter Notebook web front end that presented animal records to users as well as a graph and map relating to records presented. The initial version of this project is available in my code repositories [here](https://github.com/RobotOperator/CS340-GraziosoDashboard). This project presents a great example of my abilities to create full-stack software solutions with intuitive an UI that demonstrates an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. 
