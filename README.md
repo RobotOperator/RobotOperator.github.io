@@ -39,7 +39,7 @@ Some of the greatest challenges I overcame when working on these enhancements wa
 
 ## 4. [Contact Service](https://github.com/RobotOperator/ContactService) - Data Structure and Algorithms
 | ![Contact Service Console](/docs/assets/images/CServiceSQL.PNG) |
--
+| - |
 
 The second project I chose to improve as part of my final project in CS499 is a Contact Service application I developed using Java for my CS320 Testing, Automation, and Quality Assurance course at SNHU, original project available [here](https://github.com/RobotOperator/CS320-ContactService). The ContactService and Contact java classes were developed according to a client’s need to be drop in objects for larger programs to store user contact information. I developed two Junit5 classes, ContactServiceTest and ContactTest, to serve as unit tests for these classes that used both positive testing and negative testing to validate the classes would only accept data that met the customer’s specifications for length and type. This artifact was my first exposure to unit testing and helped me gain an understanding of how beneficial proper testing could be when determining not only expected logic execution flows but also error handling for deviations from the expected flow. 
 
