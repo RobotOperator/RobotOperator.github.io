@@ -27,7 +27,7 @@ The original video can be viewed [here](https://youtu.be/0v01YbG2tHA).
 <iframe src="https://youtube.com/embed/0v01YbG2tHA" allowfullscreen="true" width="50%" height="50%" style="text-align: center;"></iframe>
 
 ## 3. [Grazioso Dashboard](https://github.com/RobotOperator/GraziosoDashboardEnhanced) - Software Design and Engineering
-<img src="/images/GraziosDboard.png" width=65% height=65%>
+<img src="https://github.com/RobotOperator/RobotOperator.github.io/tree/main/images/GraziosDboard.png" width=65% height=65%>
 
 I have chosen to improve the Grazioso Dashboard that I created in CS340 Client Server Development at SNHU. This dashboard was developed as a full stack project with a MongoDB backend, Python middleware module that performed CRUD actions with database, and a Jupyter Notebook web front end that presented animal records to users as well as a graph and map relating to records presented. The initial version of this project is available in my code repositories [here](https://github.com/RobotOperator/CS340-GraziosoDashboard). This project presents a great example of my abilities to create full-stack software solutions with intuitive an UI that demonstrates an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. 
 
