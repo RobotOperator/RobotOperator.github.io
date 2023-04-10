@@ -21,7 +21,7 @@ Pending.
 
 ## 2. Code Review
 The enhancements I performed as part of my final project in CS499 started with a code review of the existing software projects I previously created.
-The code review serves as a demonstration of my capabilities to create a presentation combining oral and visual media delivering accurate technical concpets in a coherent, easy to understand manner, that is tailored to my audience. The review is presented in an informal manner that covers the previous state of each of the projects I have chosen to include in my capstone project for CS499.
+The code review serves as a demonstration of my capabilities to create a presentation combining oral and visual media delivering accurate technical concpets in a coherent, easy to understand manner, that is tailored to my audience. The review is presented in an informal manner that covers the previous state of each of the artifact submissions I have included below.
 
 The original full-scale video hosted on YouTube can be viewed [here](https://youtu.be/0v01YbG2tHA).
 <iframe src="https://youtu.be/embed/0v01YbG2tHA" width="420" height="315"></iframe>
